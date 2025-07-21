@@ -7,7 +7,7 @@ I’m currently working as a **Java Full Stack & UI/UX Trainee** at **Techwing**
 
 ### 💻 Tech Stack
 - **Frontend**: Angular (Strong), React (Beginner), HTML5, CSS3, Bootstrap
-- **Backend**: Java (IT Specialist Certified), JDBC, JSP & Servlets, Hibernate Spring Boot, REST APIs
+- **Backend**: Java (IT Specialist Certified), JDBC, JSP & Servlets, Hibernate, Spring Boot, REST APIs
 - **Tools & Platforms**: Git, GitHub, VS Code, Postman
 - **Design**: Photoshop, Illustrator, Figma (UI/UX basics), Responsive Design
 
