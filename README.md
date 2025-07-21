@@ -4,9 +4,8 @@ I’m currently working as a **Java Full Stack & UI/UX Trainee** at **Techwing**
 
 ---
 
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3C9EFF&center=true&vCenter=true&width=435&lines=Building+with+Code+%26+Creativity;Full+Stack+%7C+UI%2FUX+Trainee+@Techwing;Always+Learning+%F0%9F%93%9A+%7C+Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+
 
 ---
 
